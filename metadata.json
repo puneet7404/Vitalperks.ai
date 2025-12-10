@@ -1,0 +1,7 @@
+{
+  "name": "Copy of VitalPerks",
+  "description": "Revolutionizing health insurance payments by turning them into a rewarding experience with AI-powered bill scanning.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
